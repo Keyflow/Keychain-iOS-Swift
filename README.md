@@ -1,5 +1,5 @@
 # Keychain-iOS-Swift
-Keychain-iOS-Swift is a simple Swift wrapper for working with the Keychain in iOS, `Keychain` class is able to save, load and delete from iOS Keychain arbitrary objects, including, for example, `NSString` and `NSDictionary`.
+Keychain-iOS-Swift is a simple Swift wrapper for working with the Keychain in iOS, `Keychain` class is able to save, load and delete from iOS Keychain arbitrary objects, including, for example, `String` and `Dictionary`.
 
 ## Example
 
